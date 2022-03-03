@@ -1,4 +1,9 @@
 this is file one
 
 feature
-after revert
+
+feature 2
+
+feature -3
+
+feature -4
